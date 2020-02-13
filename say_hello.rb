@@ -1,4 +1,4 @@
 def say_hello name=("Ruby Programmer")
-  puts puts "Hello, #{name}."
+  puts puts "Hello #{name}."
   
 end
